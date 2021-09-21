@@ -1,1 +1,1 @@
-# emergin-tech-project
+# emerging-tech-project
