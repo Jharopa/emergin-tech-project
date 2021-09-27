@@ -6,15 +6,19 @@ Student ID: G00375766
 
 ## Quick Links
 
-Links to static version of notebooks:
+Static version of scikit-learn notebook:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/scikit-learn.ipynb) scikit-learn.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/scikit-learn.ipynb)
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/quantum-deutsch.ipynb) quantum-deutsch.ipynb
+Static version of quantum-deutsch notebook:
 
-Links to dynamic version of notebooks:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/quantum-deutsch.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jharopa/emerging-tech-project/HEAD?filepath=scikit-learn.ipynb) scikit-learn.ipynb
+Dynamic version of scikit-learn notebook:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jharopa/emerging-tech-project/HEAD?filepath=scikit-learn.ipynb) 
+
+Dynamic version of quantum-deutsch notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jharopa/emerging-tech-project/HEAD?filepath=quantum-deutsch.ipynb)
 
