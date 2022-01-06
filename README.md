@@ -9,7 +9,6 @@ In this repository you will find the following:
 
   * **datasets** - This directory holds the `winequality-red.csv` dataset that is used in `scikit-learn.ipynb`.
   * **Dockerfile|docker-compose.yaml|.dockerignore** - These Docker files allow you to create a Docker container and image that will run this repositories Jupyter notebooks.
-  * **quantum-deutsch.ipynb ** - This Jupyter notebook contains a comparison of quantum and classical computing, an explaination of *Deutsch's algorithm*, and code that simulates it using qiskit.
   * **scikit-learn.ipynb** - This Jupyter notbook contains an overview of the scikit-learn Python library, and demonstrations of scikit-learn's *Decision Tree Classification*, *Random Forest Classification*, and *Support Vector Machine Classification*.
 
 ## Quick Links
@@ -18,17 +17,9 @@ Static version of scikit-learn notebook:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/scikit-learn.ipynb)
 
-Static version of quantum-deutsch notebook:
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Jharopa/emerging-tech-project/blob/main/quantum-deutsch.ipynb)
-
 Dynamic version of scikit-learn notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jharopa/emerging-tech-project/HEAD?filepath=scikit-learn.ipynb) 
-
-Dynamic version of quantum-deutsch notebook:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jharopa/emerging-tech-project/HEAD?filepath=quantum-deutsch.ipynb)
 
 ## Running on local machine
 
